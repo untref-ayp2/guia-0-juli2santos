@@ -3,4 +3,8 @@ go 1.20
 use (
 	./Funciones/EjercicioMenu
 	./Funciones/MayorYMenor
+	./EstructurasRepetitivas/EjercicioFactorial
+	./EstructurasRepetitivas/EjercicioProducto
+	./EstructurasRepetitivas/EjercicioNumeroPrimo
+
 )
