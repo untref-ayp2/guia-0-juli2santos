@@ -1,10 +1,12 @@
 go 1.20
 
 use (
+	./Arreglos/ProductoEscalar
+	./Arreglos/SumaDeElementos
+	./Arreglos/UnionEInterseccion
+	./EstructurasRepetitivas/EjercicioFactorial
+	./EstructurasRepetitivas/EjercicioNumeroPrimo
+	./EstructurasRepetitivas/EjercicioProducto
 	./Funciones/EjercicioMenu
 	./Funciones/MayorYMenor
-	./EstructurasRepetitivas/EjercicioFactorial
-	./EstructurasRepetitivas/EjercicioProducto
-	./EstructurasRepetitivas/EjercicioNumeroPrimo
-
 )
