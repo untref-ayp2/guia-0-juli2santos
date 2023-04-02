@@ -7,6 +7,8 @@ use (
 	./EstructurasRepetitivas/EjercicioFactorial
 	./EstructurasRepetitivas/EjercicioNumeroPrimo
 	./EstructurasRepetitivas/EjercicioProducto
+	./Figuras
 	./Funciones/EjercicioMenu
 	./Funciones/MayorYMenor
+	./Punteros
 )
